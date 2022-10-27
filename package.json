@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "better-react-mathjax": "^2.0.2",
     "next": "13.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-latex": "^2.0.0",
+    "react-latex-next": "^2.2.0"
   },
   "devDependencies": {
     "eslint": "8.26.0",
